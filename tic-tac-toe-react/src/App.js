@@ -1,6 +1,5 @@
 import './App.css';
 import GameBoard from './board';
-
 function App() 
 {
   return (
