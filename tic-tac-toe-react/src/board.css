@@ -3,4 +3,40 @@ table td
    border: 1px solid grey;
    width: 100px;
    height: 100px;
+   font-size: 50px;
+   background-color: chartreuse;
+   color: aliceblue;
+   box-shadow: 5px 10px gray;
+   border-radius: 5px;
 }
+
+h1
+{
+   padding-top:30px;
+   color: aliceblue; 
+}
+
+h4
+{
+   padding-top: 30px;
+}
+
+p
+{
+   color: aliceblue;
+   font-size: x-large;
+}
+
+button
+{
+   width: 120px;
+   height: 80px;
+   margin-top: 30px;
+   margin-bottom: 20px;
+   background-color: rgb(9, 239, 255);
+   color: whitesmoke;
+   font-size: large;
+   border-radius: 30px;
+   border-color: gray;
+}
+

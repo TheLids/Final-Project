@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  align-content: center;
+  border: 25px solid chartreuse;
+  width: 97%;
+  height: 110%;
+  position: absolute;
 }
 
 .App-logo {
